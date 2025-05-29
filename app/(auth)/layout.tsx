@@ -6,7 +6,7 @@ function layout({children}:{
   return (
     <div>
         <div>
-            <h1>hello this is auth layout</h1>
+            <h1 className='bg-purple-700'>hello this is auth layout</h1>
         </div>
         {children}
     </div>
